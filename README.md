@@ -1,6 +1,6 @@
 # Topal-Act-Tool
 
-Requires > Microsoft .NET Framework 4.6
+Requires > Microsoft .NET Framework 4.6 (https://drive.google.com/file/d/1a2BSQ2kMo18DkQ63itSP-4jnO4pi_TtX/view?usp=sharing)
 
 7Zip
 
